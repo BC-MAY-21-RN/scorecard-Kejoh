@@ -16,7 +16,7 @@ sidebar:
   phone:
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: kejoh07@gmail.com
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -50,7 +50,13 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computer Scientist and psychology student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion are technology and psychology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently, I want to become a Junior Frontend Developer at an innovative company in Spain, where I can get the opportunity to be creative and solve problems people struggle with every day.
+    I am a Computer Scientist and psychology student. 
+    I love learning about programming and improving my work through the use of best practices and logical thinking. 
+    I am a proactive, diligent person with a great disposition for teamwork. 
+    Sharing knowledge and self-learning are things that I enjoy. My biggest passion are technology and psychology, 
+    which I think can help us all to become a better person, friend, worker, and a productive member of society. 
+    Currently, I want to become a Junior Frontend Developer at an innovative company in Spain, 
+    where I can get the opportunity to be creative and solve problems people struggle with every day.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -75,8 +81,8 @@ experiences:
     details: |
       I'm working like a Frontend in different project. One of them is with medice. In 
       that project, we are using React and .Net
-        - Bullet point
-        - Bullet point
+        - I created new components
+        - Support
 
   - role: Web designer
     time: 2021 - 2022
