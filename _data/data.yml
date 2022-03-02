@@ -50,67 +50,45 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a Computer Scientist and psychology student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion are technology and psychology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently, I want to become a Junior Frontend Developer at an innovative company in Spain, where I can get the opportunity to be creative and solve problems people struggle with every day.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Computer Scientist
+    university: FreeCodeCamp
+    time: 2019 Oct - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+        - Python
+        - Responssive web
+
+  - degree: Psicology
+    university: Oviedo University
+    time: 2018 - 2022
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Junior Frontend Developer
+    time: 2022 - Present
+    company: Enzyme
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      I'm working like a Frontend in different project. One of them is with medice. In 
+      that project, we are using React and .Net
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Web designer
+    time: 2021 - 2022
+    company: .blacktogrey
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I'm update the theme in this online shop. I'm using liquid and ruby.
+
+  - role: Full Stack
+    time: 2021 - 2022
+    company: Holidog
+    details: |
+      In few month, I worked with SQL, .Net, React, Angular ... and I did costumer suppor
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -125,20 +103,17 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
+    - name: SQL
       level: 40%
 
-    - name: Tensorflow
+    - name: Angular
       level: 60%
 
-    - name: Caffe
+    - name: React
       level: 80%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
+    - name: React Native
+      level: 10%
 
 # NO MODIFICAR
 footer: >
